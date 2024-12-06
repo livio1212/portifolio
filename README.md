@@ -1,6 +1,6 @@
 # Site para Portfólio
 
-Este projeto foi desenvolvido com o objetivo de criar um site para armazenar todas as minhas redes sociais, incluindo o link para o meu [perfil no GitHub](https://github.com), onde estão publicados todos os meus projetos.
+Este projeto foi desenvolvido com o objetivo de criar um site para armazenar todas as minhas redes sociais, incluindo o link para o meu [perfil no GitHub](https://github.com/livio1212), onde estão publicados todos os meus projetos.
 
 ## Tecnologias Utilizadas
 
