@@ -1,10 +1,6 @@
 # Site para Portfólio
 
-<<<<<<< HEAD
-Este projeto foi desenvolvido com o objetivo de criar um site para armazenar todas as minhas redes sociais, incluindo o link para o meu [perfil no GitHub](https://github.com), onde estão publicados todos os meus projetos.
-=======
 Este projeto foi desenvolvido com o objetivo de criar um site para armazenar todas as minhas redes sociais, incluindo o link para o meu [perfil no GitHub](https://github.com/livio1212), onde estão publicados todos os meus projetos.
->>>>>>> 39a2d08f097539efe5b87794f58eb69c8fbdf846
 
 ## Tecnologias Utilizadas
 
@@ -26,7 +22,3 @@ Este site foi projetado para fornecer acesso rápido e organizado às minhas red
 ---
 
 Obrigado por visitar este repositório! 😊 Caso tenha dúvidas ou sugestões, fique à vontade para entrar em contato. 
-<<<<<<< HEAD
-
-=======
->>>>>>> 39a2d08f097539efe5b87794f58eb69c8fbdf846
